@@ -8,8 +8,8 @@ New messgaes are obtained for every 5 seconds and NaiveBayes classification is a
 
 
 
-Created by,
-Ganga B
+Created by:
+Ganga B,
 Subasree N
 
  
