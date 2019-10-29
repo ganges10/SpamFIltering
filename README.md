@@ -9,8 +9,8 @@ New messgaes are obtained for every 5 seconds and NaiveBayes classification is a
 
 
 Created by:
-Ganga B,
-Subasree N
+Ganga B(https://github.com/ganges10),
+Subasree N(https://github.com/subasree05)
 
  
 Spam mail samples from http://web.mit.edu/network/spam/examples/
