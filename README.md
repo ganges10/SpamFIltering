@@ -1,4 +1,4 @@
-# SpamFIltering
+# SpamFiltering
 Spam filtering by categorising the keywords and then applying NaiveBayes Classification
 
 Before applying NaiveBayes, Spam and ham Keywords are obtained from the existing files in the spam and ham folders.
