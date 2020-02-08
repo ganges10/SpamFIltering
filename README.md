@@ -1,5 +1,5 @@
 # SpamFiltering
-Spam filtering by categorising the keywords and then applying NaiveBayes Classification
+Filtering spam by categorising the keywords and then applying NaiveBayes Classification
 
 Before applying NaiveBayes, Spam and ham Keywords are obtained from the existing files in the spam and ham folders.
 Once the keywords are set the thread is trained based on the existing dataset and keywords.
@@ -8,9 +8,7 @@ New messgaes are obtained for every 5 seconds and NaiveBayes classification is a
 
 
 
-Created by:
-Ganga B(https://github.com/ganges10),
-Subasree N(https://github.com/subasree05)
+Created by:  
+[Ganga B](https://github.com/ganges10)  
+[Subasree N](https://github.com/subasree05)
 
- 
-Spam mail samples from http://web.mit.edu/network/spam/examples/
